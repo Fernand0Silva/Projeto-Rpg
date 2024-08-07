@@ -1,0 +1,769 @@
+D:\PastaLocal\2DS\DS\A04\RpgApi\bin\Debug\net8.0\appsettings.Development.json
+D:\PastaLocal\2DS\DS\A04\RpgApi\bin\Debug\net8.0\appsettings.json
+D:\PastaLocal\2DS\DS\A04\RpgApi\bin\Debug\net8.0\RpgApi.exe
+D:\PastaLocal\2DS\DS\A04\RpgApi\bin\Debug\net8.0\RpgApi.deps.json
+D:\PastaLocal\2DS\DS\A04\RpgApi\bin\Debug\net8.0\RpgApi.runtimeconfig.json
+D:\PastaLocal\2DS\DS\A04\RpgApi\bin\Debug\net8.0\RpgApi.dll
+D:\PastaLocal\2DS\DS\A04\RpgApi\bin\Debug\net8.0\RpgApi.pdb
+D:\PastaLocal\2DS\DS\A04\RpgApi\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+D:\PastaLocal\2DS\DS\A04\RpgApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\PastaLocal\2DS\DS\A04\RpgApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\PastaLocal\2DS\DS\A04\RpgApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\PastaLocal\2DS\DS\A04\RpgApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\PastaLocal\2DS\DS\A04\RpgApi\obj\Debug\net8.0\RpgApi.csproj.AssemblyReference.cache
+D:\PastaLocal\2DS\DS\A04\RpgApi\obj\Debug\net8.0\RpgApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\PastaLocal\2DS\DS\A04\RpgApi\obj\Debug\net8.0\RpgApi.AssemblyInfoInputs.cache
+D:\PastaLocal\2DS\DS\A04\RpgApi\obj\Debug\net8.0\RpgApi.AssemblyInfo.cs
+D:\PastaLocal\2DS\DS\A04\RpgApi\obj\Debug\net8.0\RpgApi.csproj.CoreCompileInputs.cache
+D:\PastaLocal\2DS\DS\A04\RpgApi\obj\Debug\net8.0\RpgApi.MvcApplicationPartsAssemblyInfo.cs
+D:\PastaLocal\2DS\DS\A04\RpgApi\obj\Debug\net8.0\RpgApi.MvcApplicationPartsAssemblyInfo.cache
+D:\PastaLocal\2DS\DS\A04\RpgApi\obj\Debug\net8.0\staticwebassets.build.json
+D:\PastaLocal\2DS\DS\A04\RpgApi\obj\Debug\net8.0\staticwebassets.development.json
+D:\PastaLocal\2DS\DS\A04\RpgApi\obj\Debug\net8.0\staticwebassets\msbuild.RpgApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\PastaLocal\2DS\DS\A04\RpgApi\obj\Debug\net8.0\staticwebassets\msbuild.build.RpgApi.props
+D:\PastaLocal\2DS\DS\A04\RpgApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.RpgApi.props
+D:\PastaLocal\2DS\DS\A04\RpgApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.RpgApi.props
+D:\PastaLocal\2DS\DS\A04\RpgApi\obj\Debug\net8.0\staticwebassets.pack.json
+D:\PastaLocal\2DS\DS\A04\RpgApi\obj\Debug\net8.0\scopedcss\bundle\RpgApi.styles.css
+D:\PastaLocal\2DS\DS\A04\RpgApi\obj\Debug\net8.0\RpgApi.csproj.CopyComplete
+D:\PastaLocal\2DS\DS\A04\RpgApi\obj\Debug\net8.0\RpgApi.dll
+D:\PastaLocal\2DS\DS\A04\RpgApi\obj\Debug\net8.0\refint\RpgApi.dll
+D:\PastaLocal\2DS\DS\A04\RpgApi\obj\Debug\net8.0\RpgApi.pdb
+D:\PastaLocal\2DS\DS\A04\RpgApi\obj\Debug\net8.0\RpgApi.genruntimeconfig.cache
+D:\PastaLocal\2DS\DS\A04\RpgApi\obj\Debug\net8.0\ref\RpgApi.dll
+I:\Work\Etec\2024-1_2DS_DS\A04\RpgApi\bin\Debug\net8.0\appsettings.Development.json
+I:\Work\Etec\2024-1_2DS_DS\A04\RpgApi\bin\Debug\net8.0\appsettings.json
+I:\Work\Etec\2024-1_2DS_DS\A04\RpgApi\bin\Debug\net8.0\RpgApi.exe
+I:\Work\Etec\2024-1_2DS_DS\A04\RpgApi\bin\Debug\net8.0\RpgApi.deps.json
+I:\Work\Etec\2024-1_2DS_DS\A04\RpgApi\bin\Debug\net8.0\RpgApi.runtimeconfig.json
+I:\Work\Etec\2024-1_2DS_DS\A04\RpgApi\bin\Debug\net8.0\RpgApi.dll
+I:\Work\Etec\2024-1_2DS_DS\A04\RpgApi\bin\Debug\net8.0\RpgApi.pdb
+I:\Work\Etec\2024-1_2DS_DS\A04\RpgApi\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+I:\Work\Etec\2024-1_2DS_DS\A04\RpgApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+I:\Work\Etec\2024-1_2DS_DS\A04\RpgApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+I:\Work\Etec\2024-1_2DS_DS\A04\RpgApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+I:\Work\Etec\2024-1_2DS_DS\A04\RpgApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+I:\Work\Etec\2024-1_2DS_DS\A04\RpgApi\obj\Debug\net8.0\RpgApi.csproj.AssemblyReference.cache
+I:\Work\Etec\2024-1_2DS_DS\A04\RpgApi\obj\Debug\net8.0\RpgApi.GeneratedMSBuildEditorConfig.editorconfig
+I:\Work\Etec\2024-1_2DS_DS\A04\RpgApi\obj\Debug\net8.0\RpgApi.AssemblyInfoInputs.cache
+I:\Work\Etec\2024-1_2DS_DS\A04\RpgApi\obj\Debug\net8.0\RpgApi.AssemblyInfo.cs
+I:\Work\Etec\2024-1_2DS_DS\A04\RpgApi\obj\Debug\net8.0\RpgApi.csproj.CoreCompileInputs.cache
+I:\Work\Etec\2024-1_2DS_DS\A04\RpgApi\obj\Debug\net8.0\RpgApi.MvcApplicationPartsAssemblyInfo.cs
+I:\Work\Etec\2024-1_2DS_DS\A04\RpgApi\obj\Debug\net8.0\RpgApi.MvcApplicationPartsAssemblyInfo.cache
+I:\Work\Etec\2024-1_2DS_DS\A04\RpgApi\obj\Debug\net8.0\staticwebassets.build.json
+I:\Work\Etec\2024-1_2DS_DS\A04\RpgApi\obj\Debug\net8.0\staticwebassets.development.json
+I:\Work\Etec\2024-1_2DS_DS\A04\RpgApi\obj\Debug\net8.0\staticwebassets\msbuild.RpgApi.Microsoft.AspNetCore.StaticWebAssets.props
+I:\Work\Etec\2024-1_2DS_DS\A04\RpgApi\obj\Debug\net8.0\staticwebassets\msbuild.build.RpgApi.props
+I:\Work\Etec\2024-1_2DS_DS\A04\RpgApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.RpgApi.props
+I:\Work\Etec\2024-1_2DS_DS\A04\RpgApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.RpgApi.props
+I:\Work\Etec\2024-1_2DS_DS\A04\RpgApi\obj\Debug\net8.0\staticwebassets.pack.json
+I:\Work\Etec\2024-1_2DS_DS\A04\RpgApi\obj\Debug\net8.0\scopedcss\bundle\RpgApi.styles.css
+I:\Work\Etec\2024-1_2DS_DS\A04\RpgApi\obj\Debug\net8.0\RpgApi.csproj.CopyComplete
+I:\Work\Etec\2024-1_2DS_DS\A04\RpgApi\obj\Debug\net8.0\RpgApi.dll
+I:\Work\Etec\2024-1_2DS_DS\A04\RpgApi\obj\Debug\net8.0\refint\RpgApi.dll
+I:\Work\Etec\2024-1_2DS_DS\A04\RpgApi\obj\Debug\net8.0\RpgApi.pdb
+I:\Work\Etec\2024-1_2DS_DS\A04\RpgApi\obj\Debug\net8.0\RpgApi.genruntimeconfig.cache
+I:\Work\Etec\2024-1_2DS_DS\A04\RpgApi\obj\Debug\net8.0\ref\RpgApi.dll
+I:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\appsettings.Development.json
+I:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\appsettings.json
+I:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\RpgApi.exe
+I:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\RpgApi.deps.json
+I:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\RpgApi.runtimeconfig.json
+I:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\RpgApi.dll
+I:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\RpgApi.pdb
+I:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+I:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+I:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+I:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+I:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+I:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\obj\Debug\net8.0\RpgApi.csproj.AssemblyReference.cache
+I:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\obj\Debug\net8.0\RpgApi.GeneratedMSBuildEditorConfig.editorconfig
+I:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\obj\Debug\net8.0\RpgApi.AssemblyInfoInputs.cache
+I:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\obj\Debug\net8.0\RpgApi.AssemblyInfo.cs
+I:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\obj\Debug\net8.0\RpgApi.csproj.CoreCompileInputs.cache
+I:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\obj\Debug\net8.0\RpgApi.MvcApplicationPartsAssemblyInfo.cs
+I:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\obj\Debug\net8.0\RpgApi.MvcApplicationPartsAssemblyInfo.cache
+I:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\obj\Debug\net8.0\staticwebassets.build.json
+I:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\obj\Debug\net8.0\staticwebassets.development.json
+I:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\obj\Debug\net8.0\staticwebassets\msbuild.RpgApi.Microsoft.AspNetCore.StaticWebAssets.props
+I:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\obj\Debug\net8.0\staticwebassets\msbuild.build.RpgApi.props
+I:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.RpgApi.props
+I:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.RpgApi.props
+I:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\obj\Debug\net8.0\staticwebassets.pack.json
+I:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\obj\Debug\net8.0\scopedcss\bundle\RpgApi.styles.css
+I:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\obj\Debug\net8.0\RpgApi.csproj.CopyComplete
+I:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\obj\Debug\net8.0\RpgApi.dll
+I:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\obj\Debug\net8.0\refint\RpgApi.dll
+I:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\obj\Debug\net8.0\RpgApi.pdb
+I:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\obj\Debug\net8.0\RpgApi.genruntimeconfig.cache
+I:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\obj\Debug\net8.0\ref\RpgApi.dll
+I:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\Azure.Core.dll
+I:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\Azure.Identity.dll
+I:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\Humanizer.dll
+I:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+I:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+I:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+I:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+I:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+I:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+I:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+I:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+I:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+I:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+I:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+I:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+I:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+I:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+I:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+I:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+I:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+I:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+I:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+I:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+I:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+I:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+I:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\Mono.TextTemplating.dll
+I:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\System.CodeDom.dll
+I:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+I:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\System.Composition.Convention.dll
+I:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\System.Composition.Hosting.dll
+I:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\System.Composition.Runtime.dll
+I:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\System.Composition.TypedParts.dll
+I:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+I:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\System.Drawing.Common.dll
+I:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+I:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\System.Memory.Data.dll
+I:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\System.Runtime.Caching.dll
+I:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+I:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\System.Security.Permissions.dll
+I:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\System.Windows.Extensions.dll
+I:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+I:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+I:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+I:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+I:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+I:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+I:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+I:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+I:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+I:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+I:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+I:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+I:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+I:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+I:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+I:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+I:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+I:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+I:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+I:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+I:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+I:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+I:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+I:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+I:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\appsettings.Development.json
+E:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\appsettings.json
+E:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\RpgApi.exe
+E:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\RpgApi.deps.json
+E:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\RpgApi.runtimeconfig.json
+E:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\RpgApi.dll
+E:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\RpgApi.pdb
+E:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\Azure.Core.dll
+E:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\Azure.Identity.dll
+E:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\Humanizer.dll
+E:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+E:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\System.CodeDom.dll
+E:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\System.Memory.Data.dll
+E:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\obj\Debug\net8.0\RpgApi.csproj.AssemblyReference.cache
+E:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\obj\Debug\net8.0\RpgApi.GeneratedMSBuildEditorConfig.editorconfig
+E:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\obj\Debug\net8.0\RpgApi.AssemblyInfoInputs.cache
+E:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\obj\Debug\net8.0\RpgApi.AssemblyInfo.cs
+E:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\obj\Debug\net8.0\RpgApi.csproj.CoreCompileInputs.cache
+E:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\obj\Debug\net8.0\RpgApi.MvcApplicationPartsAssemblyInfo.cs
+E:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\obj\Debug\net8.0\RpgApi.MvcApplicationPartsAssemblyInfo.cache
+E:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\obj\Debug\net8.0\staticwebassets.build.json
+E:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\obj\Debug\net8.0\staticwebassets.development.json
+E:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\obj\Debug\net8.0\staticwebassets\msbuild.RpgApi.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\obj\Debug\net8.0\staticwebassets\msbuild.build.RpgApi.props
+E:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.RpgApi.props
+E:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.RpgApi.props
+E:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\obj\Debug\net8.0\scopedcss\bundle\RpgApi.styles.css
+E:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\obj\Debug\net8.0\RpgApi.csproj.CopyComplete
+E:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\obj\Debug\net8.0\RpgApi.dll
+E:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\obj\Debug\net8.0\refint\RpgApi.dll
+E:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\obj\Debug\net8.0\RpgApi.pdb
+E:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\obj\Debug\net8.0\RpgApi.genruntimeconfig.cache
+E:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\obj\Debug\net8.0\ref\RpgApi.dll
+D:\Personal\ETEC\Projetos\2024-1-DS\RpgApi\bin\Debug\net8.0\appsettings.Development.json
+D:\Personal\ETEC\Projetos\2024-1-DS\RpgApi\bin\Debug\net8.0\appsettings.json
+D:\Personal\ETEC\Projetos\2024-1-DS\RpgApi\bin\Debug\net8.0\RpgApi.exe
+D:\Personal\ETEC\Projetos\2024-1-DS\RpgApi\bin\Debug\net8.0\RpgApi.deps.json
+D:\Personal\ETEC\Projetos\2024-1-DS\RpgApi\bin\Debug\net8.0\RpgApi.runtimeconfig.json
+D:\Personal\ETEC\Projetos\2024-1-DS\RpgApi\bin\Debug\net8.0\RpgApi.dll
+D:\Personal\ETEC\Projetos\2024-1-DS\RpgApi\bin\Debug\net8.0\RpgApi.pdb
+D:\Personal\ETEC\Projetos\2024-1-DS\RpgApi\bin\Debug\net8.0\Azure.Core.dll
+D:\Personal\ETEC\Projetos\2024-1-DS\RpgApi\bin\Debug\net8.0\Azure.Identity.dll
+D:\Personal\ETEC\Projetos\2024-1-DS\RpgApi\bin\Debug\net8.0\Humanizer.dll
+D:\Personal\ETEC\Projetos\2024-1-DS\RpgApi\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Personal\ETEC\Projetos\2024-1-DS\RpgApi\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Personal\ETEC\Projetos\2024-1-DS\RpgApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Personal\ETEC\Projetos\2024-1-DS\RpgApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Personal\ETEC\Projetos\2024-1-DS\RpgApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Personal\ETEC\Projetos\2024-1-DS\RpgApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Personal\ETEC\Projetos\2024-1-DS\RpgApi\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Personal\ETEC\Projetos\2024-1-DS\RpgApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Personal\ETEC\Projetos\2024-1-DS\RpgApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Personal\ETEC\Projetos\2024-1-DS\RpgApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Personal\ETEC\Projetos\2024-1-DS\RpgApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Personal\ETEC\Projetos\2024-1-DS\RpgApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Personal\ETEC\Projetos\2024-1-DS\RpgApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Personal\ETEC\Projetos\2024-1-DS\RpgApi\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Personal\ETEC\Projetos\2024-1-DS\RpgApi\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Personal\ETEC\Projetos\2024-1-DS\RpgApi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Personal\ETEC\Projetos\2024-1-DS\RpgApi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Personal\ETEC\Projetos\2024-1-DS\RpgApi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Personal\ETEC\Projetos\2024-1-DS\RpgApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Personal\ETEC\Projetos\2024-1-DS\RpgApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Personal\ETEC\Projetos\2024-1-DS\RpgApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Personal\ETEC\Projetos\2024-1-DS\RpgApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Personal\ETEC\Projetos\2024-1-DS\RpgApi\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Personal\ETEC\Projetos\2024-1-DS\RpgApi\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Personal\ETEC\Projetos\2024-1-DS\RpgApi\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Personal\ETEC\Projetos\2024-1-DS\RpgApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Personal\ETEC\Projetos\2024-1-DS\RpgApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Personal\ETEC\Projetos\2024-1-DS\RpgApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Personal\ETEC\Projetos\2024-1-DS\RpgApi\bin\Debug\net8.0\System.CodeDom.dll
+D:\Personal\ETEC\Projetos\2024-1-DS\RpgApi\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Personal\ETEC\Projetos\2024-1-DS\RpgApi\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Personal\ETEC\Projetos\2024-1-DS\RpgApi\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Personal\ETEC\Projetos\2024-1-DS\RpgApi\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Personal\ETEC\Projetos\2024-1-DS\RpgApi\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Personal\ETEC\Projetos\2024-1-DS\RpgApi\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Personal\ETEC\Projetos\2024-1-DS\RpgApi\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Personal\ETEC\Projetos\2024-1-DS\RpgApi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Personal\ETEC\Projetos\2024-1-DS\RpgApi\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Personal\ETEC\Projetos\2024-1-DS\RpgApi\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Personal\ETEC\Projetos\2024-1-DS\RpgApi\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Personal\ETEC\Projetos\2024-1-DS\RpgApi\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Personal\ETEC\Projetos\2024-1-DS\RpgApi\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Personal\ETEC\Projetos\2024-1-DS\RpgApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Personal\ETEC\Projetos\2024-1-DS\RpgApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Personal\ETEC\Projetos\2024-1-DS\RpgApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Personal\ETEC\Projetos\2024-1-DS\RpgApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Personal\ETEC\Projetos\2024-1-DS\RpgApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Personal\ETEC\Projetos\2024-1-DS\RpgApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Personal\ETEC\Projetos\2024-1-DS\RpgApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Personal\ETEC\Projetos\2024-1-DS\RpgApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Personal\ETEC\Projetos\2024-1-DS\RpgApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Personal\ETEC\Projetos\2024-1-DS\RpgApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Personal\ETEC\Projetos\2024-1-DS\RpgApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Personal\ETEC\Projetos\2024-1-DS\RpgApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Personal\ETEC\Projetos\2024-1-DS\RpgApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Personal\ETEC\Projetos\2024-1-DS\RpgApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Personal\ETEC\Projetos\2024-1-DS\RpgApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Personal\ETEC\Projetos\2024-1-DS\RpgApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Personal\ETEC\Projetos\2024-1-DS\RpgApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Personal\ETEC\Projetos\2024-1-DS\RpgApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Personal\ETEC\Projetos\2024-1-DS\RpgApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Personal\ETEC\Projetos\2024-1-DS\RpgApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Personal\ETEC\Projetos\2024-1-DS\RpgApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Personal\ETEC\Projetos\2024-1-DS\RpgApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Personal\ETEC\Projetos\2024-1-DS\RpgApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Personal\ETEC\Projetos\2024-1-DS\RpgApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Personal\ETEC\Projetos\2024-1-DS\RpgApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Personal\ETEC\Projetos\2024-1-DS\RpgApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Personal\ETEC\Projetos\2024-1-DS\RpgApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Personal\ETEC\Projetos\2024-1-DS\RpgApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Personal\ETEC\Projetos\2024-1-DS\RpgApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Personal\ETEC\Projetos\2024-1-DS\RpgApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Personal\ETEC\Projetos\2024-1-DS\RpgApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Personal\ETEC\Projetos\2024-1-DS\RpgApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Personal\ETEC\Projetos\2024-1-DS\RpgApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Personal\ETEC\Projetos\2024-1-DS\RpgApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Personal\ETEC\Projetos\2024-1-DS\RpgApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Personal\ETEC\Projetos\2024-1-DS\RpgApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Personal\ETEC\Projetos\2024-1-DS\RpgApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Personal\ETEC\Projetos\2024-1-DS\RpgApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Personal\ETEC\Projetos\2024-1-DS\RpgApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Personal\ETEC\Projetos\2024-1-DS\RpgApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Personal\ETEC\Projetos\2024-1-DS\RpgApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Personal\ETEC\Projetos\2024-1-DS\RpgApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Personal\ETEC\Projetos\2024-1-DS\RpgApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Personal\ETEC\Projetos\2024-1-DS\RpgApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Personal\ETEC\Projetos\2024-1-DS\RpgApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Personal\ETEC\Projetos\2024-1-DS\RpgApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Personal\ETEC\Projetos\2024-1-DS\RpgApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Personal\ETEC\Projetos\2024-1-DS\RpgApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Personal\ETEC\Projetos\2024-1-DS\RpgApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Personal\ETEC\Projetos\2024-1-DS\RpgApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Personal\ETEC\Projetos\2024-1-DS\RpgApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Personal\ETEC\Projetos\2024-1-DS\RpgApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Personal\ETEC\Projetos\2024-1-DS\RpgApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Personal\ETEC\Projetos\2024-1-DS\RpgApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Personal\ETEC\Projetos\2024-1-DS\RpgApi\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Personal\ETEC\Projetos\2024-1-DS\RpgApi\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Personal\ETEC\Projetos\2024-1-DS\RpgApi\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Personal\ETEC\Projetos\2024-1-DS\RpgApi\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Personal\ETEC\Projetos\2024-1-DS\RpgApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Personal\ETEC\Projetos\2024-1-DS\RpgApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Personal\ETEC\Projetos\2024-1-DS\RpgApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Personal\ETEC\Projetos\2024-1-DS\RpgApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Personal\ETEC\Projetos\2024-1-DS\RpgApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Personal\ETEC\Projetos\2024-1-DS\RpgApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Personal\ETEC\Projetos\2024-1-DS\RpgApi\obj\Debug\net8.0\RpgApi.csproj.AssemblyReference.cache
+D:\Personal\ETEC\Projetos\2024-1-DS\RpgApi\obj\Debug\net8.0\RpgApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal\ETEC\Projetos\2024-1-DS\RpgApi\obj\Debug\net8.0\RpgApi.AssemblyInfoInputs.cache
+D:\Personal\ETEC\Projetos\2024-1-DS\RpgApi\obj\Debug\net8.0\RpgApi.AssemblyInfo.cs
+D:\Personal\ETEC\Projetos\2024-1-DS\RpgApi\obj\Debug\net8.0\RpgApi.csproj.CoreCompileInputs.cache
+D:\Personal\ETEC\Projetos\2024-1-DS\RpgApi\obj\Debug\net8.0\RpgApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Personal\ETEC\Projetos\2024-1-DS\RpgApi\obj\Debug\net8.0\RpgApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Personal\ETEC\Projetos\2024-1-DS\RpgApi\obj\Debug\net8.0\staticwebassets.build.json
+D:\Personal\ETEC\Projetos\2024-1-DS\RpgApi\obj\Debug\net8.0\staticwebassets.development.json
+D:\Personal\ETEC\Projetos\2024-1-DS\RpgApi\obj\Debug\net8.0\staticwebassets\msbuild.RpgApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Personal\ETEC\Projetos\2024-1-DS\RpgApi\obj\Debug\net8.0\staticwebassets\msbuild.build.RpgApi.props
+D:\Personal\ETEC\Projetos\2024-1-DS\RpgApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.RpgApi.props
+D:\Personal\ETEC\Projetos\2024-1-DS\RpgApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.RpgApi.props
+D:\Personal\ETEC\Projetos\2024-1-DS\RpgApi\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Personal\ETEC\Projetos\2024-1-DS\RpgApi\obj\Debug\net8.0\scopedcss\bundle\RpgApi.styles.css
+D:\Personal\ETEC\Projetos\2024-1-DS\RpgApi\obj\Debug\net8.0\RpgApi.csproj.CopyComplete
+D:\Personal\ETEC\Projetos\2024-1-DS\RpgApi\obj\Debug\net8.0\RpgApi.dll
+D:\Personal\ETEC\Projetos\2024-1-DS\RpgApi\obj\Debug\net8.0\refint\RpgApi.dll
+D:\Personal\ETEC\Projetos\2024-1-DS\RpgApi\obj\Debug\net8.0\RpgApi.pdb
+D:\Personal\ETEC\Projetos\2024-1-DS\RpgApi\obj\Debug\net8.0\RpgApi.genruntimeconfig.cache
+D:\Personal\ETEC\Projetos\2024-1-DS\RpgApi\obj\Debug\net8.0\ref\RpgApi.dll
+E:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+I:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+I:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+I:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\Newtonsoft.Json.dll
+I:\Work\Etec\2024-1_2DS_DS\Versoes\RpgApi\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+D:\Local\3DS\PAMII\A01\RpgApi\bin\Debug\net8.0\appsettings.Development.json
+D:\Local\3DS\PAMII\A01\RpgApi\bin\Debug\net8.0\appsettings.json
+D:\Local\3DS\PAMII\A01\RpgApi\bin\Debug\net8.0\RpgApi.exe
+D:\Local\3DS\PAMII\A01\RpgApi\bin\Debug\net8.0\RpgApi.deps.json
+D:\Local\3DS\PAMII\A01\RpgApi\bin\Debug\net8.0\RpgApi.runtimeconfig.json
+D:\Local\3DS\PAMII\A01\RpgApi\bin\Debug\net8.0\RpgApi.dll
+D:\Local\3DS\PAMII\A01\RpgApi\bin\Debug\net8.0\RpgApi.pdb
+D:\Local\3DS\PAMII\A01\RpgApi\bin\Debug\net8.0\Azure.Core.dll
+D:\Local\3DS\PAMII\A01\RpgApi\bin\Debug\net8.0\Azure.Identity.dll
+D:\Local\3DS\PAMII\A01\RpgApi\bin\Debug\net8.0\Humanizer.dll
+D:\Local\3DS\PAMII\A01\RpgApi\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Local\3DS\PAMII\A01\RpgApi\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Local\3DS\PAMII\A01\RpgApi\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Local\3DS\PAMII\A01\RpgApi\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Local\3DS\PAMII\A01\RpgApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Local\3DS\PAMII\A01\RpgApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Local\3DS\PAMII\A01\RpgApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Local\3DS\PAMII\A01\RpgApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Local\3DS\PAMII\A01\RpgApi\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Local\3DS\PAMII\A01\RpgApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Local\3DS\PAMII\A01\RpgApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Local\3DS\PAMII\A01\RpgApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Local\3DS\PAMII\A01\RpgApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Local\3DS\PAMII\A01\RpgApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Local\3DS\PAMII\A01\RpgApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Local\3DS\PAMII\A01\RpgApi\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Local\3DS\PAMII\A01\RpgApi\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Local\3DS\PAMII\A01\RpgApi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Local\3DS\PAMII\A01\RpgApi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Local\3DS\PAMII\A01\RpgApi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Local\3DS\PAMII\A01\RpgApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Local\3DS\PAMII\A01\RpgApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Local\3DS\PAMII\A01\RpgApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Local\3DS\PAMII\A01\RpgApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Local\3DS\PAMII\A01\RpgApi\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Local\3DS\PAMII\A01\RpgApi\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Local\3DS\PAMII\A01\RpgApi\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Local\3DS\PAMII\A01\RpgApi\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Local\3DS\PAMII\A01\RpgApi\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+D:\Local\3DS\PAMII\A01\RpgApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Local\3DS\PAMII\A01\RpgApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Local\3DS\PAMII\A01\RpgApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Local\3DS\PAMII\A01\RpgApi\bin\Debug\net8.0\System.CodeDom.dll
+D:\Local\3DS\PAMII\A01\RpgApi\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Local\3DS\PAMII\A01\RpgApi\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Local\3DS\PAMII\A01\RpgApi\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Local\3DS\PAMII\A01\RpgApi\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Local\3DS\PAMII\A01\RpgApi\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Local\3DS\PAMII\A01\RpgApi\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Local\3DS\PAMII\A01\RpgApi\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Local\3DS\PAMII\A01\RpgApi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Local\3DS\PAMII\A01\RpgApi\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Local\3DS\PAMII\A01\RpgApi\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Local\3DS\PAMII\A01\RpgApi\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Local\3DS\PAMII\A01\RpgApi\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Local\3DS\PAMII\A01\RpgApi\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Local\3DS\PAMII\A01\RpgApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Local\3DS\PAMII\A01\RpgApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Local\3DS\PAMII\A01\RpgApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Local\3DS\PAMII\A01\RpgApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Local\3DS\PAMII\A01\RpgApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Local\3DS\PAMII\A01\RpgApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Local\3DS\PAMII\A01\RpgApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Local\3DS\PAMII\A01\RpgApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Local\3DS\PAMII\A01\RpgApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Local\3DS\PAMII\A01\RpgApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Local\3DS\PAMII\A01\RpgApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Local\3DS\PAMII\A01\RpgApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Local\3DS\PAMII\A01\RpgApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Local\3DS\PAMII\A01\RpgApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Local\3DS\PAMII\A01\RpgApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Local\3DS\PAMII\A01\RpgApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Local\3DS\PAMII\A01\RpgApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Local\3DS\PAMII\A01\RpgApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Local\3DS\PAMII\A01\RpgApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Local\3DS\PAMII\A01\RpgApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Local\3DS\PAMII\A01\RpgApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Local\3DS\PAMII\A01\RpgApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Local\3DS\PAMII\A01\RpgApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Local\3DS\PAMII\A01\RpgApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Local\3DS\PAMII\A01\RpgApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Local\3DS\PAMII\A01\RpgApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Local\3DS\PAMII\A01\RpgApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Local\3DS\PAMII\A01\RpgApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Local\3DS\PAMII\A01\RpgApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Local\3DS\PAMII\A01\RpgApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Local\3DS\PAMII\A01\RpgApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Local\3DS\PAMII\A01\RpgApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Local\3DS\PAMII\A01\RpgApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Local\3DS\PAMII\A01\RpgApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Local\3DS\PAMII\A01\RpgApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Local\3DS\PAMII\A01\RpgApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Local\3DS\PAMII\A01\RpgApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Local\3DS\PAMII\A01\RpgApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Local\3DS\PAMII\A01\RpgApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Local\3DS\PAMII\A01\RpgApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Local\3DS\PAMII\A01\RpgApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Local\3DS\PAMII\A01\RpgApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Local\3DS\PAMII\A01\RpgApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Local\3DS\PAMII\A01\RpgApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Local\3DS\PAMII\A01\RpgApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Local\3DS\PAMII\A01\RpgApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Local\3DS\PAMII\A01\RpgApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Local\3DS\PAMII\A01\RpgApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Local\3DS\PAMII\A01\RpgApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Local\3DS\PAMII\A01\RpgApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Local\3DS\PAMII\A01\RpgApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Local\3DS\PAMII\A01\RpgApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Local\3DS\PAMII\A01\RpgApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Local\3DS\PAMII\A01\RpgApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Local\3DS\PAMII\A01\RpgApi\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Local\3DS\PAMII\A01\RpgApi\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Local\3DS\PAMII\A01\RpgApi\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Local\3DS\PAMII\A01\RpgApi\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Local\3DS\PAMII\A01\RpgApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Local\3DS\PAMII\A01\RpgApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Local\3DS\PAMII\A01\RpgApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Local\3DS\PAMII\A01\RpgApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Local\3DS\PAMII\A01\RpgApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Local\3DS\PAMII\A01\RpgApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Local\3DS\PAMII\A01\RpgApi\obj\Debug\net8.0\RpgApi.csproj.AssemblyReference.cache
+D:\Local\3DS\PAMII\A01\RpgApi\obj\Debug\net8.0\RpgApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Local\3DS\PAMII\A01\RpgApi\obj\Debug\net8.0\RpgApi.AssemblyInfoInputs.cache
+D:\Local\3DS\PAMII\A01\RpgApi\obj\Debug\net8.0\RpgApi.AssemblyInfo.cs
+D:\Local\3DS\PAMII\A01\RpgApi\obj\Debug\net8.0\RpgApi.csproj.CoreCompileInputs.cache
+D:\Local\3DS\PAMII\A01\RpgApi\obj\Debug\net8.0\RpgApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Local\3DS\PAMII\A01\RpgApi\obj\Debug\net8.0\RpgApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Local\3DS\PAMII\A01\RpgApi\obj\Debug\net8.0\staticwebassets.build.json
+D:\Local\3DS\PAMII\A01\RpgApi\obj\Debug\net8.0\staticwebassets.development.json
+D:\Local\3DS\PAMII\A01\RpgApi\obj\Debug\net8.0\staticwebassets\msbuild.RpgApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Local\3DS\PAMII\A01\RpgApi\obj\Debug\net8.0\staticwebassets\msbuild.build.RpgApi.props
+D:\Local\3DS\PAMII\A01\RpgApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.RpgApi.props
+D:\Local\3DS\PAMII\A01\RpgApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.RpgApi.props
+D:\Local\3DS\PAMII\A01\RpgApi\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Local\3DS\PAMII\A01\RpgApi\obj\Debug\net8.0\scopedcss\bundle\RpgApi.styles.css
+D:\Local\3DS\PAMII\A01\RpgApi\obj\Debug\net8.0\RpgApi.csproj.Up2Date
+D:\Local\3DS\PAMII\A01\RpgApi\obj\Debug\net8.0\RpgApi.dll
+D:\Local\3DS\PAMII\A01\RpgApi\obj\Debug\net8.0\refint\RpgApi.dll
+D:\Local\3DS\PAMII\A01\RpgApi\obj\Debug\net8.0\RpgApi.pdb
+D:\Local\3DS\PAMII\A01\RpgApi\obj\Debug\net8.0\RpgApi.genruntimeconfig.cache
+D:\Local\3DS\PAMII\A01\RpgApi\obj\Debug\net8.0\ref\RpgApi.dll
+D:\Local\3DS\PAMII\A01\RpgApi\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\3DS\Luiz\PAMII - Luiz\A02\RpgApi\bin\Debug\net8.0\appsettings.Development.json
+D:\3DS\Luiz\PAMII - Luiz\A02\RpgApi\bin\Debug\net8.0\appsettings.json
+D:\3DS\Luiz\PAMII - Luiz\A02\RpgApi\bin\Debug\net8.0\RpgApi.exe
+D:\3DS\Luiz\PAMII - Luiz\A02\RpgApi\bin\Debug\net8.0\RpgApi.deps.json
+D:\3DS\Luiz\PAMII - Luiz\A02\RpgApi\bin\Debug\net8.0\RpgApi.runtimeconfig.json
+D:\3DS\Luiz\PAMII - Luiz\A02\RpgApi\bin\Debug\net8.0\RpgApi.dll
+D:\3DS\Luiz\PAMII - Luiz\A02\RpgApi\bin\Debug\net8.0\RpgApi.pdb
+D:\3DS\Luiz\PAMII - Luiz\A02\RpgApi\bin\Debug\net8.0\Azure.Core.dll
+D:\3DS\Luiz\PAMII - Luiz\A02\RpgApi\bin\Debug\net8.0\Azure.Identity.dll
+D:\3DS\Luiz\PAMII - Luiz\A02\RpgApi\bin\Debug\net8.0\Humanizer.dll
+D:\3DS\Luiz\PAMII - Luiz\A02\RpgApi\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\3DS\Luiz\PAMII - Luiz\A02\RpgApi\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\3DS\Luiz\PAMII - Luiz\A02\RpgApi\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\3DS\Luiz\PAMII - Luiz\A02\RpgApi\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+D:\3DS\Luiz\PAMII - Luiz\A02\RpgApi\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\3DS\Luiz\PAMII - Luiz\A02\RpgApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\3DS\Luiz\PAMII - Luiz\A02\RpgApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\3DS\Luiz\PAMII - Luiz\A02\RpgApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\3DS\Luiz\PAMII - Luiz\A02\RpgApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\3DS\Luiz\PAMII - Luiz\A02\RpgApi\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\3DS\Luiz\PAMII - Luiz\A02\RpgApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\3DS\Luiz\PAMII - Luiz\A02\RpgApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\3DS\Luiz\PAMII - Luiz\A02\RpgApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\3DS\Luiz\PAMII - Luiz\A02\RpgApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\3DS\Luiz\PAMII - Luiz\A02\RpgApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\3DS\Luiz\PAMII - Luiz\A02\RpgApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\3DS\Luiz\PAMII - Luiz\A02\RpgApi\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\3DS\Luiz\PAMII - Luiz\A02\RpgApi\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\3DS\Luiz\PAMII - Luiz\A02\RpgApi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\3DS\Luiz\PAMII - Luiz\A02\RpgApi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\3DS\Luiz\PAMII - Luiz\A02\RpgApi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\3DS\Luiz\PAMII - Luiz\A02\RpgApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\3DS\Luiz\PAMII - Luiz\A02\RpgApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\3DS\Luiz\PAMII - Luiz\A02\RpgApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\3DS\Luiz\PAMII - Luiz\A02\RpgApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\3DS\Luiz\PAMII - Luiz\A02\RpgApi\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\3DS\Luiz\PAMII - Luiz\A02\RpgApi\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\3DS\Luiz\PAMII - Luiz\A02\RpgApi\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\3DS\Luiz\PAMII - Luiz\A02\RpgApi\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\3DS\Luiz\PAMII - Luiz\A02\RpgApi\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+D:\3DS\Luiz\PAMII - Luiz\A02\RpgApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\3DS\Luiz\PAMII - Luiz\A02\RpgApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\3DS\Luiz\PAMII - Luiz\A02\RpgApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\3DS\Luiz\PAMII - Luiz\A02\RpgApi\bin\Debug\net8.0\System.CodeDom.dll
+D:\3DS\Luiz\PAMII - Luiz\A02\RpgApi\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\3DS\Luiz\PAMII - Luiz\A02\RpgApi\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\3DS\Luiz\PAMII - Luiz\A02\RpgApi\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\3DS\Luiz\PAMII - Luiz\A02\RpgApi\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\3DS\Luiz\PAMII - Luiz\A02\RpgApi\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\3DS\Luiz\PAMII - Luiz\A02\RpgApi\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\3DS\Luiz\PAMII - Luiz\A02\RpgApi\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\3DS\Luiz\PAMII - Luiz\A02\RpgApi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\3DS\Luiz\PAMII - Luiz\A02\RpgApi\bin\Debug\net8.0\System.Memory.Data.dll
+D:\3DS\Luiz\PAMII - Luiz\A02\RpgApi\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\3DS\Luiz\PAMII - Luiz\A02\RpgApi\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\3DS\Luiz\PAMII - Luiz\A02\RpgApi\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\3DS\Luiz\PAMII - Luiz\A02\RpgApi\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\3DS\Luiz\PAMII - Luiz\A02\RpgApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\3DS\Luiz\PAMII - Luiz\A02\RpgApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\3DS\Luiz\PAMII - Luiz\A02\RpgApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\3DS\Luiz\PAMII - Luiz\A02\RpgApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\3DS\Luiz\PAMII - Luiz\A02\RpgApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\3DS\Luiz\PAMII - Luiz\A02\RpgApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\3DS\Luiz\PAMII - Luiz\A02\RpgApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\3DS\Luiz\PAMII - Luiz\A02\RpgApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\3DS\Luiz\PAMII - Luiz\A02\RpgApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\3DS\Luiz\PAMII - Luiz\A02\RpgApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\3DS\Luiz\PAMII - Luiz\A02\RpgApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\3DS\Luiz\PAMII - Luiz\A02\RpgApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\3DS\Luiz\PAMII - Luiz\A02\RpgApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\3DS\Luiz\PAMII - Luiz\A02\RpgApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\3DS\Luiz\PAMII - Luiz\A02\RpgApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\3DS\Luiz\PAMII - Luiz\A02\RpgApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\3DS\Luiz\PAMII - Luiz\A02\RpgApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\3DS\Luiz\PAMII - Luiz\A02\RpgApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\3DS\Luiz\PAMII - Luiz\A02\RpgApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\3DS\Luiz\PAMII - Luiz\A02\RpgApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\3DS\Luiz\PAMII - Luiz\A02\RpgApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\3DS\Luiz\PAMII - Luiz\A02\RpgApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\3DS\Luiz\PAMII - Luiz\A02\RpgApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\3DS\Luiz\PAMII - Luiz\A02\RpgApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\3DS\Luiz\PAMII - Luiz\A02\RpgApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\3DS\Luiz\PAMII - Luiz\A02\RpgApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\3DS\Luiz\PAMII - Luiz\A02\RpgApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\3DS\Luiz\PAMII - Luiz\A02\RpgApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\3DS\Luiz\PAMII - Luiz\A02\RpgApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\3DS\Luiz\PAMII - Luiz\A02\RpgApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\3DS\Luiz\PAMII - Luiz\A02\RpgApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\3DS\Luiz\PAMII - Luiz\A02\RpgApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\3DS\Luiz\PAMII - Luiz\A02\RpgApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\3DS\Luiz\PAMII - Luiz\A02\RpgApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\3DS\Luiz\PAMII - Luiz\A02\RpgApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\3DS\Luiz\PAMII - Luiz\A02\RpgApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\3DS\Luiz\PAMII - Luiz\A02\RpgApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\3DS\Luiz\PAMII - Luiz\A02\RpgApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\3DS\Luiz\PAMII - Luiz\A02\RpgApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\3DS\Luiz\PAMII - Luiz\A02\RpgApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\3DS\Luiz\PAMII - Luiz\A02\RpgApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\3DS\Luiz\PAMII - Luiz\A02\RpgApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\3DS\Luiz\PAMII - Luiz\A02\RpgApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\3DS\Luiz\PAMII - Luiz\A02\RpgApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\3DS\Luiz\PAMII - Luiz\A02\RpgApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\3DS\Luiz\PAMII - Luiz\A02\RpgApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\3DS\Luiz\PAMII - Luiz\A02\RpgApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\3DS\Luiz\PAMII - Luiz\A02\RpgApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\3DS\Luiz\PAMII - Luiz\A02\RpgApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\3DS\Luiz\PAMII - Luiz\A02\RpgApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\3DS\Luiz\PAMII - Luiz\A02\RpgApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\3DS\Luiz\PAMII - Luiz\A02\RpgApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\3DS\Luiz\PAMII - Luiz\A02\RpgApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\3DS\Luiz\PAMII - Luiz\A02\RpgApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\3DS\Luiz\PAMII - Luiz\A02\RpgApi\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\3DS\Luiz\PAMII - Luiz\A02\RpgApi\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\3DS\Luiz\PAMII - Luiz\A02\RpgApi\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\3DS\Luiz\PAMII - Luiz\A02\RpgApi\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\3DS\Luiz\PAMII - Luiz\A02\RpgApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\3DS\Luiz\PAMII - Luiz\A02\RpgApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\3DS\Luiz\PAMII - Luiz\A02\RpgApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\3DS\Luiz\PAMII - Luiz\A02\RpgApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\3DS\Luiz\PAMII - Luiz\A02\RpgApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\3DS\Luiz\PAMII - Luiz\A02\RpgApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\3DS\Luiz\PAMII - Luiz\A02\RpgApi\obj\Debug\net8.0\RpgApi.csproj.AssemblyReference.cache
+D:\3DS\Luiz\PAMII - Luiz\A02\RpgApi\obj\Debug\net8.0\RpgApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\3DS\Luiz\PAMII - Luiz\A02\RpgApi\obj\Debug\net8.0\RpgApi.AssemblyInfoInputs.cache
+D:\3DS\Luiz\PAMII - Luiz\A02\RpgApi\obj\Debug\net8.0\RpgApi.AssemblyInfo.cs
+D:\3DS\Luiz\PAMII - Luiz\A02\RpgApi\obj\Debug\net8.0\RpgApi.csproj.CoreCompileInputs.cache
+D:\3DS\Luiz\PAMII - Luiz\A02\RpgApi\obj\Debug\net8.0\RpgApi.MvcApplicationPartsAssemblyInfo.cs
+D:\3DS\Luiz\PAMII - Luiz\A02\RpgApi\obj\Debug\net8.0\RpgApi.MvcApplicationPartsAssemblyInfo.cache
+D:\3DS\Luiz\PAMII - Luiz\A02\RpgApi\obj\Debug\net8.0\staticwebassets.build.json
+D:\3DS\Luiz\PAMII - Luiz\A02\RpgApi\obj\Debug\net8.0\staticwebassets.development.json
+D:\3DS\Luiz\PAMII - Luiz\A02\RpgApi\obj\Debug\net8.0\staticwebassets\msbuild.RpgApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\3DS\Luiz\PAMII - Luiz\A02\RpgApi\obj\Debug\net8.0\staticwebassets\msbuild.build.RpgApi.props
+D:\3DS\Luiz\PAMII - Luiz\A02\RpgApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.RpgApi.props
+D:\3DS\Luiz\PAMII - Luiz\A02\RpgApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.RpgApi.props
+D:\3DS\Luiz\PAMII - Luiz\A02\RpgApi\obj\Debug\net8.0\staticwebassets.pack.json
+D:\3DS\Luiz\PAMII - Luiz\A02\RpgApi\obj\Debug\net8.0\scopedcss\bundle\RpgApi.styles.css
+D:\3DS\Luiz\PAMII - Luiz\A02\RpgApi\obj\Debug\net8.0\RpgApi.csproj.Up2Date
+D:\3DS\Luiz\PAMII - Luiz\A02\RpgApi\obj\Debug\net8.0\RpgApi.dll
+D:\3DS\Luiz\PAMII - Luiz\A02\RpgApi\obj\Debug\net8.0\refint\RpgApi.dll
+D:\3DS\Luiz\PAMII - Luiz\A02\RpgApi\obj\Debug\net8.0\RpgApi.pdb
+D:\3DS\Luiz\PAMII - Luiz\A02\RpgApi\obj\Debug\net8.0\RpgApi.genruntimeconfig.cache
+D:\3DS\Luiz\PAMII - Luiz\A02\RpgApi\obj\Debug\net8.0\ref\RpgApi.dll
