@@ -6,6 +6,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using RpgApi.Data;
 using RpgApi.Models;
+using RpgApi.Utils;
 
 namespace RpgApi.Controllers
 {
@@ -25,6 +26,8 @@ namespace RpgApi.Controllers
         {
             try
             {
+                int usuario = User.ObterUsuarioId();
+                
                 Arma a = await _context.TB_ARMAS.FirstOrDefaultAsync(aBusca => aBusca.Id == id);
                 //using Microsoft.EntityFrameworkCore;
 
