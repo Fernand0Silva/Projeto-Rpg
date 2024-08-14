@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\3DS\\Luiz\\PAMII - Luiz\\A02\\RpgApi\\RpgApi.csproj": {}
+    "D:\\Luiz\\PAMII - Luiz\\A02\\RpgApi\\RpgApi.csproj": {}
   },
   "projects": {
-    "D:\\3DS\\Luiz\\PAMII - Luiz\\A02\\RpgApi\\RpgApi.csproj": {
+    "D:\\Luiz\\PAMII - Luiz\\A02\\RpgApi\\RpgApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\3DS\\Luiz\\PAMII - Luiz\\A02\\RpgApi\\RpgApi.csproj",
+        "projectUniqueName": "D:\\Luiz\\PAMII - Luiz\\A02\\RpgApi\\RpgApi.csproj",
         "projectName": "RpgApi",
-        "projectPath": "D:\\3DS\\Luiz\\PAMII - Luiz\\A02\\RpgApi\\RpgApi.csproj",
+        "projectPath": "D:\\Luiz\\PAMII - Luiz\\A02\\RpgApi\\RpgApi.csproj",
         "packagesPath": "C:\\Users\\etechas\\.nuget\\packages\\",
-        "outputPath": "D:\\3DS\\Luiz\\PAMII - Luiz\\A02\\RpgApi\\obj\\",
+        "outputPath": "D:\\Luiz\\PAMII - Luiz\\A02\\RpgApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
